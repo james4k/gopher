@@ -1,5 +1,7 @@
 ## Gopher
 
+![Gopher](https://raw.githubusercontent.com/james4k/gopher/master/preview.jpg)
+
 A wallpaper of [Go](http://golang.org)'s gopher mascot.
 
 Download from imgur:
