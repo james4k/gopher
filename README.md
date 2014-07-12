@@ -11,6 +11,10 @@ Created in [Blender](http://blender.org/) 2.71; HDR
 environment texture created by deviantart user
 [zybg](http://zbyg.deviantart.com/art/HDRi-Pack-2-103458406).
 
+![Panorama](https://raw.githubusercontent.com/james4k/gopher/master/panorama.jpg)
+
+"Behind the scenes" panorama.
+
 ### Design
 
 The original Go gopher was designed by [Renee French](http://reneefrench.blogspot.com/)
