@@ -17,7 +17,7 @@ environment texture created by deviantart user
 
 ### Design
 
-The original Go gopher was designed by [Renee French](http://reneefrench.blogspot.com/)
+The original Go gopher was designed by [Renee French](http://reneefrench.blogspot.com/).
 The design is licensed under the Creative Commons 3.0 Attributions
 license. Read this article for more details: http://blog.golang.org/gopher
 
