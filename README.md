@@ -5,7 +5,7 @@
 A wallpaper of [Go](http://golang.org)'s gopher mascot.
 
 Download from imgur:
-- [2560x1600](http://i.imgur.com/trsuUkz.jpg)
+- [2560x1600](http://imgur.com/BzkODSc)
 
 Created in [Blender](http://blender.org/) 2.71; HDR
 environment texture created by deviantart user
