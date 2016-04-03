@@ -4,8 +4,9 @@
 
 A wallpaper of [Go](http://golang.org)'s gopher mascot.
 
-Download from imgur:
-- [2560x1600](http://imgur.com/BzkODSc)
+Download from [releases](https://github.com/james4k/gopher/releases) (4K and 5K available).
+
+Download a 2560x1600 image from [imgur](http://imgur.com/BzkODSc).
 
 Created in [Blender](http://blender.org/) 2.71; HDR
 environment texture created by deviantart user
